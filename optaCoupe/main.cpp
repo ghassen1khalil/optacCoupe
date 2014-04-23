@@ -10,7 +10,7 @@ void main()
 	FILE file;
 	
 	int i;
-
+	printf("hello git");
 	prblm = chargerInstance("coupe1.txt");
 	int * tab = (int *) malloc (prblm->nbTotPcs * sizeof(int));
 	solConst = initSol(prblm);
