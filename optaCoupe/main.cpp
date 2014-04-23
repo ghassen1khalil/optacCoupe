@@ -4,7 +4,6 @@
 #include "instance.h"
 void main()
 {
-	printf("hello git");
 	problem * prblm;
 	solution * solConst;
 	solution * solLoc;
